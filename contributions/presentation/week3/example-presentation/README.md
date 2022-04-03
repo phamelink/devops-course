@@ -5,6 +5,6 @@ After adding label to PR
 
 The check should pass with this link:
 
-# We add a commit because the workflow was using a wrong version of the action
+We add a commit because the workflow was using a wrong reference to the action
 
 https://google.com
